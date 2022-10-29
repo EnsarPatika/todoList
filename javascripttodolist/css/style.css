@@ -1,0 +1,45 @@
+.textbox{
+    margin: 10px;
+    display: flex;
+    justify-content:space-between;
+    
+}
+
+h2{
+    text-align: center
+}
+
+.header{
+    background-color: orange;
+}
+
+.mb-1{
+    background-color: white; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+.imageTitle{
+    flex: none
+}
+
+#liveToastBtn{
+    /* margin-left: 20px; */
+    margin-right: 40px;
+    padding-right: 10px;
+}
+
+.done{
+    color: white;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+
+
+.close{
+    right: 0;
+}
